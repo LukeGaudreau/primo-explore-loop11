@@ -1,0 +1,11 @@
+{
+  "name": "primo-explore-loop11",
+  "version": "0.0.1",
+  "description": "Embed loop11 for testing Primo",
+  "main": "js/loop11.module.js",
+  "keywords": [
+    "primo"
+  ],
+  "author": "Luke Gaudreau",
+  "license": "GPL-3.0"
+}
